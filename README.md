@@ -1,5 +1,11 @@
 # Godot++: The Ultimate C++ GDExtension Template
 
+## 1. Clear this README file and specify what your plugin will be about.
+
+## 2. Replace the license content to show that you are the owner of your code you will be writing.
+
+## 3. Make your commits, and then clone the repository and start making changes.
+
 The easiest way to develop, compile, and distribute C++ plugins for Godot Engine.
 
 Godot++ is a user-friendly Godot GDExtension template designed to streamline C++ development for the Godot Engine. Unlike complex manual configurations, this template uses a powerful `setup.py` automation script, making it the perfect choice for any developer.
